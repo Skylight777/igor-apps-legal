@@ -1,0 +1,196 @@
+{
+  "version": 1,
+  "data_stand": "2026-08-03",
+  "law_changed": {
+    "active": false,
+    "message_de": "",
+    "message_en": ""
+  },
+  "reform": {
+    "effective_date": "2027-05-19",
+    "law_id": "BGBl. I Nr. 79/2026 (42. KFG-Novelle)",
+    "kundmachung_date": "2026-07-29",
+    "legal_basis": "§ 135 Abs. 51 Z 2 KFG 1967 idF BGBl. I Nr. 79/2026: '§ 57a Abs. 3 und § 132 Abs. 37 ... treten mit 19. Mai 2027 in Kraft'",
+    "verified_on": "2026-08-03",
+    "source": "https://www.ris.bka.gv.at/eli/bgbl/I/2026/79"
+  },
+  "begutachtung": {
+    "schemes": {
+      "old": {
+        "valid_until": "2027-05-18",
+        "legal_basis": "§ 57a Abs. 3 KFG 1967, Fassung gueltig von 30.07.2026 bis 18.05.2027",
+        "verified_on": "2026-08-03",
+        "source": "https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011384&Paragraf=57a",
+        "classes": {
+          "m1": {
+            "due_years_after_erstzulassung": [3, 5, 6],
+            "recurring_interval_years": 1,
+            "window": { "months_before": 1, "months_after": 4 },
+            "legal_basis": "§ 57a Abs. 3 Z 3 lit. a sublit. bb KFG (3-2-1); Zeitfenster: § 57a Abs. 3 dritter Satz, 'vom Beginn des dem vorgesehenen Zeitpunkt vorausgehenden Kalendermonates bis zum Ablauf des vierten darauffolgenden Kalendermonates'",
+            "source": "https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011384&Paragraf=57a"
+          },
+          "l": {
+            "due_years_after_erstzulassung": [3, 5, 6],
+            "recurring_interval_years": 1,
+            "window": { "months_before": 1, "months_after": 4 },
+            "legal_basis": "§ 57a Abs. 3 Z 3 lit. a sublit. aa KFG (3-2-1); Zeitfenster wie Z 3 bis Z 5",
+            "source": "https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011384&Paragraf=57a"
+          },
+          "n1": {
+            "due_years_after_erstzulassung": [1],
+            "recurring_interval_years": 1,
+            "window": { "months_before": 3, "months_after": 0 },
+            "legal_basis": "§ 57a Abs. 3 Z 1 KFG (jaehrlich); Zeitfenster: 'in einem Zeitraum von drei Monaten vor dem vorgesehenen Begutachtungsmonat' — keine Nachfrist",
+            "source": "https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011384&Paragraf=57a"
+          },
+          "taxi": {
+            "due_years_after_erstzulassung": [1],
+            "recurring_interval_years": 1,
+            "window": { "months_before": 3, "months_after": 0 },
+            "legal_basis": "§ 57a Abs. 3 Z 1 KFG — Taxi-, Kranken- und Rettungsfahrzeuge sind von Z 3 lit. a sublit. bb ausgenommen, daher jaehrlich; Zeitfenster drei Monate vor dem Begutachtungsmonat, keine Nachfrist",
+            "source": "https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011384&Paragraf=57a"
+          },
+          "oldtimer": {
+            "due_years_after_erstzulassung": [2],
+            "recurring_interval_years": 2,
+            "window": { "months_before": 1, "months_after": 4 },
+            "legal_basis": "§ 57a Abs. 3 Z 4 KFG — historische Fahrzeuge (§ 2 Abs. 1 Z 43 KFG) alle zwei Jahre; Zeitfenster wie Z 3 bis Z 5",
+            "source": "https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011384&Paragraf=57a"
+          }
+        }
+      },
+      "new": {
+        "valid_from": "2027-05-19",
+        "legal_basis": "§ 57a Abs. 3 KFG 1967 idF BGBl. I Nr. 79/2026, in Kraft ab 19.05.2027",
+        "verified_on": "2026-08-03",
+        "source": "https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011384&Paragraf=57a&FassungVom=2027-06-01",
+        "classes": {
+          "m1": {
+            "due_years_after_erstzulassung": [4, 6, 8, 10],
+            "recurring_interval_years": 1,
+            "window": { "months_before": 4, "months_after": 0 },
+            "legal_basis": "§ 57a Abs. 3 Z 3 KFG idF BGBl. I Nr. 79/2026: 'vier Jahre nach der ersten Zulassung, jeweils zwei Jahre nach der ersten, zweiten und dritten Begutachtung und ein Jahr nach der vierten und nach jeder weiteren Begutachtung'; Zeitfenster: dritter Satz, 'vier Monaten vor dem vorgesehenen Begutachtungsmonat' — Nachfrist entfaellt",
+            "source": "https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011384&Paragraf=57a&FassungVom=2027-06-01"
+          },
+          "l": {
+            "due_years_after_erstzulassung": [4, 6, 8, 10],
+            "recurring_interval_years": 1,
+            "window": { "months_before": 4, "months_after": 0 },
+            "legal_basis": "§ 57a Abs. 3 Z 3 KFG idF BGBl. I Nr. 79/2026 (4-2-2-2-1); Zeitfenster vier Monate vor dem Begutachtungsmonat",
+            "source": "https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011384&Paragraf=57a&FassungVom=2027-06-01"
+          },
+          "n1": {
+            "due_years_after_erstzulassung": [1],
+            "recurring_interval_years": 1,
+            "window": { "months_before": 4, "months_after": 0 },
+            "legal_basis": "§ 57a Abs. 3 Z 1 KFG (jaehrlich, durch BGBl. I Nr. 79/2026 unveraendert); Zeitfenster neu einheitlich vier Monate vor dem Begutachtungsmonat",
+            "source": "https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011384&Paragraf=57a&FassungVom=2027-06-01"
+          },
+          "taxi": {
+            "due_years_after_erstzulassung": [1],
+            "recurring_interval_years": 1,
+            "window": { "months_before": 4, "months_after": 0 },
+            "legal_basis": "§ 57a Abs. 3 Z 1 KFG (jaehrlich, unveraendert); Zeitfenster neu einheitlich vier Monate vor dem Begutachtungsmonat",
+            "source": "https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011384&Paragraf=57a&FassungVom=2027-06-01"
+          },
+          "oldtimer": {
+            "due_years_after_erstzulassung": [2],
+            "recurring_interval_years": 2,
+            "window": { "months_before": 4, "months_after": 0 },
+            "legal_basis": "§ 57a Abs. 3 Z 4 KFG (alle zwei Jahre, durch BGBl. I Nr. 79/2026 unveraendert); Zeitfenster neu einheitlich vier Monate vor dem Begutachtungsmonat",
+            "source": "https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011384&Paragraf=57a&FassungVom=2027-06-01"
+          }
+        }
+      }
+    },
+    "transitional": {
+      "pre_reform_vehicles": {
+        "applies_to_classes": ["m1", "l"],
+        "first_begutachtung_years_if_no_inspection": 4,
+        "interval_years_after_last_inspection": 2,
+        "annual_from_year_after_erstzulassung": 10,
+        "old_deadline_until_austauschplakette": true,
+        "legal_basis": "§ 132 Abs. 37 Z 1 und Z 2 KFG idF BGBl. I Nr. 79/2026: neue Fristen gelten 'auch fuer bereits vor dem 19. Mai 2027 zugelassene Fahrzeuge'; ohne bisherige Begutachtung erste Begutachtung vier Jahre nach der ersten Zulassung; nach bereits erfolgter Begutachtung jeweils zwei Jahre nach der letzten Begutachtung, 'spaetestens im zehnten Jahr nach der Erstzulassung und danach, jaehrlich'; bis zur Anbringung der Austauschplakette gilt die auf der Lochmarkierung der bisherigen Begutachtungsplakette ersichtliche Frist",
+        "verified_on": "2026-08-03",
+        "source": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2026_I_79/BGBLA_2026_I_79.pdf"
+      },
+      "year2027_windows": {
+        "applies_to_year": 2027,
+        "keep_old_window_stichtag_months": [2, 3, 4, 5, 6, 7],
+        "extension_stichtag_months": [8, 9, 10],
+        "extension_until": "2027-11-30",
+        "legal_basis": "§ 132 Abs. 37 Z 3 KFG idF BGBl. I Nr. 79/2026: fuer Fahrzeuge mit Stichtag Februar bis Juli gelten fuer die im Jahr 2027 vorzunehmende Begutachtung die Fristen des § 57a Abs. 3 dritter Satz in der bis 18.05.2027 geltenden Fassung weiter; fuer Stichtag August bis Oktober zusaetzlich eine Fristverlaengerung bis inklusive November 2027",
+        "verified_on": "2026-08-03",
+        "source": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2026_I_79/BGBLA_2026_I_79.pdf"
+      },
+      "austauschplakette": {
+        "kostenersatz_max_eur": 10,
+        "not_issued_if_severe_defect": true,
+        "legal_basis": "§ 132 Abs. 37 Z 4 und Z 5 KFG idF BGBl. I Nr. 79/2026: keine Austauschplakette, wenn das letzte Gutachten einen schweren Mangel oder Mangel mit Gefahr im Verzug enthaelt; Kostenersatz hoechstens 10 Euro zusaetzlich zum Plakettenpreis",
+        "verified_on": "2026-08-03",
+        "source": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2026_I_79/BGBLA_2026_I_79.pdf"
+      }
+    }
+  },
+  "vignette": {
+    "price_year": 2026,
+    "prices_eur": {
+      "annual": { "a": 42.70, "b": 106.80 },
+      "two_months": { "a": 12.80, "b": 32.00 },
+      "ten_days": { "a": 5.10, "b": 12.80 },
+      "one_day": { "a": 3.80, "b": 9.60 }
+    },
+    "prices_source": "https://www.asfinag.at/maut-vignette/vignette/",
+    "prices_verified_on": "2026-08-03",
+    "prices_note_de": "Preise inklusive 20 % USt, gueltig ab 01.12.2025. Preise 2027 waren am 03.08.2026 nicht veroeffentlicht — muessen per Remote-Config nachgeliefert werden.",
+    "validity": {
+      "annual_starts_previous_year_month": 12,
+      "annual_starts_day": 1,
+      "annual_ends_following_year_month": 1,
+      "annual_ends_day": 31,
+      "two_months_duration_months": 2,
+      "ten_days_duration_days": 10,
+      "one_day_duration_days": 1,
+      "legal_basis": "ASFINAG Mautordnung Version 87 (gueltig mit 01.01.2026), Punkte 1.5.1–1.5.4: Jahresvignette gilt zusaetzlich vom 1. Dezember des Vorjahres bis 31. Jaenner des Folgejahres; 2-Monats-Vignette endet mit Ablauf des Tages des zweiten Monats, der nach seiner Zahl dem ersten Gueltigkeitstag entspricht; 10-Tages-Vignette gilt zehn aufeinanderfolgende Kalendertage; Tagesvignette gilt einen frei waehlbaren Kalendertag",
+      "verified_on": "2026-08-03",
+      "source": "https://media.asfinag.at/media/citlddtb/00_mo_v87.pdf"
+    },
+    "online_purchase": {
+      "activation_delay_days": 18,
+      "delay_applies_to": {
+        "annual": true,
+        "two_months": true,
+        "ten_days": false,
+        "one_day": false
+      },
+      "legal_basis": "Konsumentenschutzrechtliche Ruecktrittsfrist bei Online-Kauf: digitale Jahres- und 2-Monats-Vignette werden erst 18 Tage nach dem Kauf gueltig; 10-Tages- und Tagesvignette sind bei Online-Kauf sofort gueltig (Kauf an einer Vertriebsstelle ist immer sofort gueltig)",
+      "verified_on": "2026-08-03",
+      "source": "https://www.oesterreich.gv.at/themen/mobilitaet/kfz/10/Vignette-und-Maut/Vignette-fuer-Fahrzeuge-bis-3,5-t"
+    },
+    "digital_only_from": "2027-02-01",
+    "digital_only_note_de": "Die Klebevignette 2026 ('feuerrot') ist die letzte; ab 1. Februar 2027 gibt es ausschliesslich digitale Varianten.",
+    "digital_only_verified_on": "2026-08-03",
+    "digital_only_source": "https://www.asfinag.at/ueber-uns/presse/pressemeldungen/klebevignette-2026-wird-feuerrot/"
+  },
+  "winterreifen": {
+    "situational": {
+      "from_month": 11,
+      "from_day": 1,
+      "to_month": 4,
+      "to_day": 15,
+      "applies_to_classes": ["m1", "n1", "taxi"],
+      "class_undetermined": ["oldtimer"],
+      "not_covered_classes": ["l"],
+      "legal_basis": "§ 102 Abs. 8a KFG 1967: Kraftfahrzeuge der Klasse M1 oder N1 sowie vierraedrige Leichtkraftfahrzeuge mit geschlossenem, kabinenartigem Aufbau duerfen im Zeitraum 1. November bis 15. April bei winterlichen Fahrbahnverhaeltnissen (Schneefahrbahn, Schneematsch oder Eis) nur mit Winterreifen an allen Raedern oder mit Schneeketten auf mindestens zwei Antriebsraedern in Betrieb genommen werden",
+      "verified_on": "2026-08-03",
+      "source": "https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011384&Paragraf=102"
+    },
+    "min_profile_depth_mm": {
+      "radial": 4,
+      "diagonal": 5,
+      "legal_basis": "Mindestprofiltiefe fuer Winterreifen: 4 mm (Radialreifen) bzw. 5 mm (Diagonalreifen); § 102 Abs. 8a KFG nennt nur 'entsprechende Profiltiefe', die Konkretisierung stammt aus der KDV",
+      "verified_on": "2026-08-03",
+      "source": "https://infothek.bmimi.gv.at/situative-winterreifenpflicht-gilt-ab-1-november-4/"
+    }
+  }
+}
