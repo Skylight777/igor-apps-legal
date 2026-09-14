@@ -7,3 +7,4 @@
 - [Auto-Fristen — Pickerl & Vignette](autofristen.md)
 - [Bill Reminder XL — Organizer](billreminderxl.md)
 - [Debt Payoff XL — Snowball](debtpayoffxl.md)
+- [PrintExact: Print to Size](printexact.md)
