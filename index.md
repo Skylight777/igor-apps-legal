@@ -9,3 +9,4 @@
 - [Debt Payoff XL — Snowball](debtpayoffxl.md)
 - [PrintExact: Print to Size](printexact.md)
 - [Lucida Cam: AR Drawing & Trace](lucidacam.md)
+- [RowWise: Knitting Row Counter](rowwise.md)
